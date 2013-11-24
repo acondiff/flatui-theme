@@ -6,7 +6,7 @@ Project site: Coming soon.
 
 ## Design
 
-![FlatUI Theme](http://f.cl.ly/items/2J2A2i1g3o0i2l3l0a0A/Screen%20Shot%202013-07-30%20at%201.56.04%20PM.png)
+![FlatUI Theme](https://www.dropbox.com/s/lio3fn4j19s44o5/flatui.png)
 
 ## Installation
 
