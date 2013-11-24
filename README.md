@@ -6,7 +6,7 @@ Project site: Coming soon.
 
 ## Design
 
-![FlatUI Theme](https://www.dropbox.com/s/lio3fn4j19s44o5/flatui.png)
+![FlatUI Theme](flatui.png)
 
 ## Installation
 
