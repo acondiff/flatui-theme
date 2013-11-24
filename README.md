@@ -97,10 +97,13 @@ In your User Settings file, add the following line `"flatui_thin_tabs": true,`
 
 In your User Settings file, add the following line `"flatui_folder_icons": true,`
 
-## Development
+## Font
 
-Please note, Sublime Text dev builds move quickly and changes can occur with the theme API between releases, so there may be occasions where the theme doesn't quite work with a brand new dev release.
+Reccomended font: Adobe Source Code Pro (https://github.com/adobe/source-code-pro)
 
 ## License
 
 Based on Soda Theme by Ian Hill (http://buymeasoda.com/)
+
+Based on FlatUI Theme by acondiff (https://github.com/acondiff/flatui-theme)
+
