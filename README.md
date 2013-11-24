@@ -20,7 +20,7 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/acondiff/flatui-theme/ "Theme - FlatUI"
+    git clone git@github.com:mabasic/flatui-theme.git "Theme - FlatUI"
 
 ### Download Manually
 
